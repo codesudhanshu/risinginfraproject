@@ -109,7 +109,7 @@
 
 /* Media qurey section */
 
-@media screen and (min-width: 380px) and (max-width: 1024px) {
+@media screen and (min-width: 350px) and (max-width: 1024px) {
     .container {
         margin: 0;
     }
@@ -610,13 +610,13 @@
     
     /* Gllary Css Start Here  */
     #gallary{
-        padding: 1em;
+        padding: 2em;
     }
     
     .images{
-        width: 25em;
-        height: 20em;
-        margin: 1em 1em 0 1em;
+        width: 2em;
+        height: 2em;
+        margin: 1em 0 1em 0em;
         transition: 3s;
     }
     .images:hover{
